@@ -11,7 +11,7 @@ export default class Showcase extends Component{
             <video autoPlay muted loop>
             <source src={vid1} type="video/mp4" />
             </video>
-            <div className="box"></div>
+            {/* <div className="box"></div> */}
             <div className="text-container">
             <h1>Welcome to my portfolio</h1>
             <h2>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum</h2>

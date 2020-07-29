@@ -21,9 +21,10 @@
   background-color: rgba(0, 0, 0, 0.507);
   grid-row: 2/4;
   grid-column: 2/7;
+  box-shadow: 5px 5px 10px;
 }
 
-.box{
+/* .box{
   height: 70%;
   width: 70%;
   justify-self: center;
@@ -35,7 +36,7 @@
   border: 1px solid rgb(255, 255, 255);
   margin-top: -1rem;
   margin-left: 1rem;
-}
+} */
 
 .text-container h1{
   text-align: center;
